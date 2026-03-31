@@ -6,7 +6,6 @@ Open Source Audit Project on Linux Kernel with 5 shell scripts and report.
 ## Student Details
 Name: Raghvendra Verma  
 Roll.No: 24MIM10179
-
 Course: Open Source Software  
 Project: Open Source Audit  
 
