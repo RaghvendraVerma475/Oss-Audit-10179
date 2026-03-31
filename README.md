@@ -61,11 +61,11 @@ Displays:
 
 
 ## How to Run the Project
-- ./Script_1.sh
-- ./Script_2.sh
-- ./Script_3.sh
-- ./Script_4.sh /var/log/syslog
-- ./Script_5.sh
+./Script_1.sh <br>
+./Script_2.sh <br>
+./Script_3.sh <br>
+./Script_4.sh /var/log/syslog <br>
+./Script_5.sh <br>
 
 ## Requirements
 - Linux environment (Ubuntu / WSL)
